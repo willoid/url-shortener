@@ -273,7 +273,7 @@ function App() {
             </div>
 
             <footer className="app-footer">
-                <p>Made with ❤️ by [Your Name] |
+                <p>Made with ❤️ by <a href="https://github.com/willoid">willoid</a> |
                     <a href="https://github.com/yourusername/url-shortener" target="_blank" rel="noopener noreferrer">
                         View on GitHub
                     </a>
